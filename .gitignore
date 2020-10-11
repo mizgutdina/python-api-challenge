@@ -1,6 +1,9 @@
-config.py
+VacationPy/config.py
+WeatherPy/config.py
 __pycache__
 .ipynb_checkpoints
+
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
